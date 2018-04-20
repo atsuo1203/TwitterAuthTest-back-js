@@ -1,0 +1,23 @@
+{
+  "name": "back-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atsuo1203/TwitterAuthTest-back-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atsuo1203/TwitterAuthTest-back-js/issues"
+  },
+  "homepage": "https://github.com/atsuo1203/TwitterAuthTest-back-js#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
